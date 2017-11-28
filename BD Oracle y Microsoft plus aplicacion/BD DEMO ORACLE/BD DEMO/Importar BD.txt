@@ -1,0 +1,9 @@
+DEBE EXISTIR UN USUARIO A DONDE IMPORTAR COMO "SEMINARIO" EN ESTE CASO.
+
+En el directorio donde se encuentra el programa IMP.exe
+C:\Oracle\DataBase\product\11.1.0\db_2\BIN
+
+digitar:
+
+IMP system/ORACLE FROMUSER=DEMO TOUSER=DEMO FILE='C:\Users\Guilherme\Desktop\BD DEMO\backcal.dmp'
+
